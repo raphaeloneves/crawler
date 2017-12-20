@@ -1,6 +1,6 @@
-# Exemplo Crawler
+# Crawler Playground
 
-Aplicação crawler capaz de ler uma página web contendo vários desafios matetmáticos em forma de captcha e capturar um valor específico contido na página 1000.
+This project is able to connect into an specifc resource, resolve some captcha challanges, request a new challange until the expected results appears, and maintaining cookies and session data.
+It was used in a job selection process with a specific URL as resource, so, I can't garantee that connection is working.
 
-- Biblioteca auxiliar: JSoup
-- Development Kit: JDK 1.7
+I developed it using JDK version 7 and JSoup.
